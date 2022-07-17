@@ -1,5 +1,5 @@
-# VDD
-Implementation of Variational Domain Disentanglement ICME 2022
+# VDD (Variational Domain Disentanglement)
+Implementation of Discovering Domain Disentanglement for Generalized Multi-source Domain Adaptation, ICME 2022
 
 ## Overall Architecture
 
