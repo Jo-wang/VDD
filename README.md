@@ -2,7 +2,13 @@
 Implementation of Variational Domain Disentanglement ICME 2022
 
 ## Overall Architecture
-![framework](/framework.pdf)
+
+<object data="https://github.com/Jo-wang/VDD/blob/main/framework.pdf" type="application/pdf" width="700px" height="500px">
+    <embed src="https://github.com/Jo-wang/VDD/blob/main/framework.pdf">
+        <p>Please download the PDF to view it: <a href="https://github.com/Jo-wang/VDD/blob/main/framework.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 
 ## Datasets
