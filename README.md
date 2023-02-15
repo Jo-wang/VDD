@@ -3,11 +3,7 @@ Implementation of Discovering Domain Disentanglement for Generalized Multi-sourc
 
 ## Overall Architecture
 
-<object data="https://github.com/Jo-wang/VDD/blob/main/framework.pdf" type="application/pdf" width="700px" height="500px">
-    <embed src="https://github.com/Jo-wang/VDD/blob/main/framework.pdf">
-        <p>Please download the PDF to view it: <a href="https://github.com/Jo-wang/VDD/blob/main/framework.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<img width="700" alt="1676445461674" src="https://user-images.githubusercontent.com/46414159/218958708-47aca61f-72df-49b4-bf29-21480e427596.png">
 
 ## Arxiv Link
 [https://arxiv.org/abs/2207.05070?context=cs.AI](https://arxiv.org/abs/2207.05070?context=cs.AI)
